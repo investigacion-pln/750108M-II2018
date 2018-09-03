@@ -1,7 +1,7 @@
 title: Calculo III - 111052M-04 - 2018-2
 description: Universidad del Valle, Cali
 sitename: Calculo III
-baseurl: ''
+baseurl: '/111052M-04'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
