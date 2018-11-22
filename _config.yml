@@ -3,7 +3,7 @@ description: Universidad del Valle, Cali
 sitename: Introducción al PLN
 baseurl: '/750108M-II2018'
 sass:
-  sass_dir: /assets/_sass
+  sass_dir: /assets/_sass 
   style: :compressed
 collections:
   - features
