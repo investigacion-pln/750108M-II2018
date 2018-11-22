@@ -8,7 +8,7 @@ image:
 
 ### Profesor
 [PhD. Raúl Ernesto Gutiérrez de Piñerez Reyes](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000224383)  
-*raul.gutierrez@correounivalle.edu.co *<br/>
+*raul.gutierrez@correounivalle.edu.co*<br/>
 *Escuela de Ingeniería de Sistemas y Computación*  
 *Universidad del Valle*
 
