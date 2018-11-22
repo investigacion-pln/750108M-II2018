@@ -1,7 +1,7 @@
-title: Calculo III - 111052M-04 - 2018-2
+title: Introducción alñ PLN - 750108M - 2018-2
 description: Universidad del Valle, Cali
-sitename: Calculo III
-baseurl: '/111052M-04'
+sitename: Introducción al PLN
+baseurl: '/750108M-II2018'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
